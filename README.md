@@ -1,5 +1,5 @@
-# codeblocks_ubuntu_16
-Codeblock for ubuntu 17 and up
+# codeblocks_ubuntu_16  (work in progress)
+Codeblock for ubuntu 16 and up, with repainting fixes.
 
 
 ```
